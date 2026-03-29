@@ -1,7 +1,7 @@
 # rusty-comfort
 Brown noise player made in Rust with Iced/FunDSP
 
-Simple, but works well
+Simple, but works well. Warning: Spaghetti code! Just don't look at it too intensely or it'll fall apart! (https://xkcd.com/2347/)
 
 ![image](https://github.com/user-attachments/assets/d3fc03ad-f3d2-4b5d-9ab5-fdebfc7302f4)
 
